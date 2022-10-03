@@ -1,0 +1,11 @@
+table.mytable {border-collapse: collapse}
+    /*collapse: không có khoảng cách giữa các cell của bảng */
+                th.mytable {border-top:3px solid #008284; border-bottom:1px solid #00ffff; 
+                    background:black; font:bold; color:white; text-align:left}
+                td.mytable_column1 {background-color: #000084; color: white;border-bottom: 1px solid #00ffff; font-style: italic; font-weight: bold;}
+                td.mytable_column2 {background-color: #008284; color: white; border-bottom: 1px solid #00ffff}
+                td.mytable_column3 {background-color: #008284; color: white;border-bottom: 1px solid #00ffff}
+                td.mytable_column4 {background-color: #008284; color: white;border-bottom: 1px solid #00ffff}
+                tr.row5{border-bottom: 2px solid #008284;}
+                tr.row1{font-style: italic;font-weight: bold;}
+                
